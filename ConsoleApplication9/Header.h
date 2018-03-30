@@ -1,0 +1,10 @@
+int * GetMemory(int * length=NULL);
+void fillArray(int *mass, int length);
+void printArray(int *mass, int length);	
+int SearchSecondPositivElement(int *mass, int length);
+void ReverseElements(int *mas, int length);
+void ElementNeKrat3(int *mass, int length);
+void SwitchMinAndLastElement(int *mass, int length);
+long int TwoTo8(int *mass);
+void ChetOrNechet(int *mas, int length);
+void NotBiggerThan10(int *mas, int length);
